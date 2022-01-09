@@ -1,0 +1,15 @@
+- Powerful way for finding libraries and resources
+- Combine
+	- Filters
+		- E.g. `Only actively maintained projects`
+	- Tags
+		- E.g. `database`, `http-client`, ...
+	- Target platforms
+		- More precise than simply Clojure or Clojurescript
+		- E.g. `babashka`, `JVM`, `NodeJS`, `native-image`, ...
+- With time, a collection of commonly used queries will be built and maintained
+	- Useful for the read-only website
+	- Will also serve as examples for users opening this project in [[Logseq]] (write-mode)
+- Two types
+	- [[Simple queries]]
+	- [[Datalog queries]]

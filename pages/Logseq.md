@@ -1,0 +1,16 @@
+- Note-taking app
+	- Written in Clojurescript
+	- Bidirectional linking
+	- Powerful search capabilities
+	- Knowledge graph
+- Links
+	- [Documentation](https://docs.logseq.com/#/page/Contents)
+	- [Github](https://github.com/logseq/logseq)
+	- [Main website](https://logseq.com)
+- Why
+	- Under the hood, it is simply markdown
+	- Well-suited for collaboration through Git
+	- Query system powered by Datalog
+	- Easy to hack
+		- See [[How to contribute]]
+	- Allow publishing a read-only version for the web

@@ -1,0 +1,30 @@
+alias:: Advantages over previous work
+
+- Avoid duplicating efforts
+	- https://www.clojure-toolbox.com
+	- https://github.com/razum2um/awesome-clojure
+	- ...
+- Rich interface
+	- Powered by [[Logseq]]
+- Searchable
+	- Resolve complex questions
+		- `Find an HTTP client, both JVM and Node friendly`
+		- `Find a Datalog database compatible with Babashka`
+		- ...
+	- See [[Queries]]
+- Annotated
+	- Offer more than mere links
+	- Brief annotations
+		- Spot strengths and weaknesses of a library
+		- Comparisons with similar work, help choosing
+	- Rich media
+		- Allow embedding videos
+- Bidirectional linking
+	- Easy to spot how different resources are linked
+		- Page for library A has a link to library B
+		- Automatically, page for library B shows how it is linked to library A
+- Knowledge graph
+	- Visualization showing how resources are connected together
+	- Shared concepts, tags, platforms, ...
+- Contributions
+	- Easy, see [[How to contribute]]
