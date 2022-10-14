@@ -1,0 +1,38 @@
+name: publish
+
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+
+##########
+
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Logseq Publish, prepare website
+        uses: pengx17/logseq-publish@main
+        with:
+          version: "master"
+
+      - name: Add a nojekyll file
+        run:  touch $GITHUB_WORKSPACE/www/.nojekyll
+
+      - name: Push to Github pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch:        gh-pages  # Branch the action should deploy to.
+          clean:         true
+          folder:        www       # The folder the action should deploy.
+          single-commit: true
