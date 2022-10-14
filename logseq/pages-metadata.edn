@@ -4,9 +4,6 @@
  {:block/name "about",
   :block/created-at 1641745866018,
   :block/updated-at 1641767172357}
- {:block/name "active",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "adam helins",
   :block/created-at 1641750328596,
   :block/updated-at 1641750381982}
@@ -16,13 +13,7 @@
  {:block/name "asami",
   :block/created-at 1641764021435,
   :block/updated-at 1641764569196}
- {:block/name "aws",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "b",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
- {:block/name "babashka",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
  {:block/name "bitemporal",
@@ -43,9 +34,6 @@
  {:block/name "card",
   :block/created-at 1647643395293,
   :block/updated-at 1647643395293}
- {:block/name "cli",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "clojure",
   :block/created-at 1665521961663,
   :block/updated-at 1665521961663}
@@ -61,9 +49,6 @@
  {:block/name "clojure/jdbc",
   :block/created-at 1665521961662,
   :block/updated-at 1665521961662}
- {:block/name "cloud",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "contents",
   :block/created-at 1641749419649,
   :block/updated-at 1641767732809}
@@ -139,9 +124,6 @@
  {:block/name "libraries",
   :block/created-at 1641752617134,
   :block/updated-at 1641767631258}
- {:block/name "library",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "library page",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -151,12 +133,6 @@
  {:block/name "logseq",
   :block/created-at 1641749783617,
   :block/updated-at 1641761449857}
- {:block/name "native-image",
-  :block/created-at 1647643395293,
-  :block/updated-at 1647643395293}
- {:block/name "networked database",
-  :block/created-at 1647643395292,
-  :block/updated-at 1647643395292}
  {:block/name "next",
   :block/created-at 1665521961703,
   :block/updated-at 1665521961703}
@@ -202,9 +178,6 @@
  {:block/name "sql",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
- {:block/name "stable",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "status",
   :block/created-at 1665521961710,
   :block/updated-at 1665521961710}
@@ -229,9 +202,6 @@
  {:block/name "type",
   :block/created-at 1665521961711,
   :block/updated-at 1665521961711}
- {:block/name "unknown",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
  {:block/name "wait",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
