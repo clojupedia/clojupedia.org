@@ -6,11 +6,16 @@ Powerful query capabilities organized around a knowledge graph for discovering t
 
 See current version, a basic example exploring core features and capabilities, at [this link](https://clojupedia.github.io/#/page/contents).
 
-Powered by [Logseq](https://logseq.com). Open this graph in the application to enjoy its full potential.
+Powered by [Logseq][https://logseq.com]. Open this graph in the application to enjoy its full potential.
 
 
 # License
 
-Licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+Licensed under [CC
+BY-NC-ND](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+This license is the most restrictive of our six main licenses, only allowing
+others to download your works and share them with others as long as they credit
+you, but they can’t change them in any way or use them commercially.
 
 Copyright © 2021 Adam Helinski and contributors
