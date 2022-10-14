@@ -3,6 +3,7 @@ alias:: Advantages over previous work
 - Avoid duplicating efforts
 	- https://www.clojure-toolbox.com
 	- https://github.com/razum2um/awesome-clojure
+	- https://github.com/mbuczko/awesome-clojure
 	- ...
 - Rich interface
 	- Powered by [[Logseq]]

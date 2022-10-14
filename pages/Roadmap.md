@@ -1,5 +1,4 @@
 - LATER Bootstrap community effort
-	- TODO Attempt funding via [Clojurists Together](https://www.clojuriststogether.org)
 	- TODO Organise a group of trusted maintainers
 		- For reviewing and merging future pull requests
 - TODO Establish clear contribution guidelines

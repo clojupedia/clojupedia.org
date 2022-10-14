@@ -1,45 +1,45 @@
 [{:block/name "a",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "about",
   :block/created-at 1641745866018,
   :block/updated-at 1641767172357}
  {:block/name "active",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "adam helins",
   :block/created-at 1641750328596,
   :block/updated-at 1641750381982}
  {:block/name "advantages over previous work",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "asami",
   :block/created-at 1641764021435,
   :block/updated-at 1641764569196}
  {:block/name "aws",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "b",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "babashka",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "bitemporal",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "browser",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "c",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "card",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "cli",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "clojure.java.jdbc",
   :block/created-at 1641763530785,
   :block/updated-at 1641763629387}
@@ -47,14 +47,14 @@
   :block/created-at 1641763843451,
   :block/updated-at 1641765019975}
  {:block/name "cloud",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "contents",
   :block/created-at 1641749419649,
   :block/updated-at 1641767732809}
  {:block/name "database",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "datahike",
   :block/created-at 1641762558560,
   :block/updated-at 1641763398946}
@@ -62,8 +62,8 @@
   :block/created-at 1641751872835,
   :block/updated-at 1641760282839}
  {:block/name "datalog",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "datalog queries",
   :block/created-at 1641765600589,
   :block/updated-at 1641767924607}
@@ -74,80 +74,86 @@
   :block/created-at 1641761172947,
   :block/updated-at 1641763287512}
  {:block/name "disk",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "doing",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "done",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "eql",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "favorites",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "how to contribute",
   :block/created-at 1641748329161,
   :block/updated-at 1641750502512}
  {:block/name "in-memory",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "in-progress",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
+ {:block/name "jan 10th, 2022",
+  :block/created-at 1641772800000,
+  :block/updated-at 1641772800000}
  {:block/name "jan 9th, 2022",
   :block/created-at 1641686400000,
   :block/updated-at 1641686400000}
  {:block/name "jdbc",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "jvm",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "key-value store",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "later",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "libraries",
   :block/created-at 1641752617134,
   :block/updated-at 1641767631258}
  {:block/name "library",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "library page",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "logseq",
   :block/created-at 1641749783617,
   :block/updated-at 1641761449857}
  {:block/name "native-image",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "networked database",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "next.jdbc",
   :block/created-at 1641763657537,
   :block/updated-at 1641765021912}
  {:block/name "nodejs",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "now",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "powered by logseq",
   :block/created-at 1641747767506,
   :block/updated-at 1641747767522}
  {:block/name "previous work",
   :block/created-at 1641748195921,
-  :block/updated-at 1641767163564}
+  :block/updated-at 1641806933648}
  {:block/name "queries",
   :block/created-at 1641765110142,
   :block/updated-at 1641767355118}
+ {:block/name "readme",
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "roadmap",
   :block/created-at 1641749387984,
   :block/updated-at 1641764898840}
@@ -155,17 +161,17 @@
   :block/created-at 1641765314827,
   :block/updated-at 1641765373705}
  {:block/name "sql",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "stable",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "template",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "template - library",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "template - library page",
   :block/created-at 1641760292807,
   :block/updated-at 1641764819725}
@@ -173,20 +179,20 @@
   :block/created-at 1641761493353,
   :block/updated-at 1641764799517}
  {:block/name "time-travel",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "todo",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "unknown",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "wait",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538569,
+  :block/updated-at 1643379538569}
  {:block/name "waiting",
-  :block/created-at 1641768069728,
-  :block/updated-at 1641768069728}
+  :block/created-at 1643379538567,
+  :block/updated-at 1643379538567}
  {:block/name "xtdb",
   :block/created-at 1641760566940, 
   :block/updated-at 1641765025763}]
