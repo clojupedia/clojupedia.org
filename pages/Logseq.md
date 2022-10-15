@@ -1,8 +1,9 @@
-- Note-taking app
+- Note-taking desktop application
 	- Written in Clojurescript
-	- Bidirectional linking
 	- Powerful search capabilities
-	- Knowledge graph
+		- Bidirectional linking
+		- Simple and effective queries
+	- Building a knowledge graph
 - Links
 	- [Documentation](https://docs.logseq.com/#/page/Contents)
 	- [Github](https://github.com/logseq/logseq)
@@ -11,6 +12,9 @@
 	- Under the hood, it is simply markdown
 	- Well-suited for collaboration through Git
 	- Query system powered by Datalog
+	- Whole knowledge graph can be exported to EDN
+		- Future-proof
 	- Easy to hack
-		- See [[How to contribute]]
+		- See [[Contribute]]
 	- Allow publishing a read-only version for the web
+		- [Clojupedia website](https://clojupedia.org)

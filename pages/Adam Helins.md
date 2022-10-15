@@ -1,4 +1,0 @@
-- Project lead
-- Contact
-	- https://github.com/helins
-	- [@AdamHelins](https://mobile.twitter.com/adamhelins)

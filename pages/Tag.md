@@ -1,6 +1,6 @@
 filters:: {"type" false}
 description:: All existing tags
-title:: tag
+title:: Tag
 type:: [[Property]]
 ---
 

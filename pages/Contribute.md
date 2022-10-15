@@ -1,0 +1,6 @@
+- Fork the [repository](https://github.com/clojupedia/clojupedia.org)
+- Edit directly using [[Logseq]]
+	- Using a  [[Template]] when creating a new page
+	- Ensure any information you provide is concise
+	- Always strive to avoid duplication in any form
+- Create a pull request

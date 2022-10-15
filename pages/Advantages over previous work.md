@@ -1,4 +1,4 @@
-alias:: Advantages over previous work
+title:: Advantages over previous work
 
 - Avoid duplicating efforts
 	- https://www.clojure-toolbox.com
@@ -28,4 +28,4 @@ alias:: Advantages over previous work
 	- Visualization showing how resources are connected together
 	- Shared concepts, tags, platforms, ...
 - Contributions
-	- Easy, see [[How to contribute]]
+	- Easy, see [[Contribute]]
