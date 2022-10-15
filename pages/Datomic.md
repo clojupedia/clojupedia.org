@@ -1,9 +1,8 @@
 description:: Transactional database with a flexible data model ; elastic scaling ; and rich queries
 link:: https://www.datomic.com
 platform:: cloud, AWS
-status:: active, 
-tags:: database, datalog
-type:: networked database, library,
+tags:: database, datalog, [[Persistent]]
+type:: [[networked database]], [[library]]
 
 - Comments
 	- Its Clojuresque [[Datalog]] dialect led to many [[Datalog]] databases

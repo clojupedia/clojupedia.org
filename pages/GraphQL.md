@@ -1,2 +1,3 @@
-- [Official website](https://graphql.org/)
-  title:: GraphQL
+description:: Popular alternative to REST APIs
+link:: https://graphql.org
+title:: GraphQL

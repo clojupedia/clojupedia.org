@@ -1,7 +1,7 @@
 description:: General purpose database with graph-oriented bitemporal indexes
 link:: https://github.com/xtdb/xtdb
 platform:: [[JVM]]
-tags:: [[bitemporal]], [[database]], [[datalog]], [[EQL]], [[SQL]]
+tags:: [[Bitemporal]], [[Database]], [[datalog]], [[EQL]], [[Persistent]], [[SQL]]
 type:: [[networked database]], [[library]]
 
 - Comments

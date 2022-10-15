@@ -1,7 +1,7 @@
 description:: Graph database for Clojure and Clojurescript
 link:: https://github.com/threatgrid/asami
 platform:: [[browser]], [[JVM]], [[NodeJS]], [[native-image]]
-tags:: [[database]], [[datalog]], [[disk]], [[in-memory]]
+tags:: [[Database]], [[datalog]], [[Persistent]], [[In-memory]]
 type:: [[CLI]], [[library]]
 
 - Comments

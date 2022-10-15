@@ -1,7 +1,7 @@
 description:: A `DataLoader` for Clojure/script
 link:: https://github.com/oliyh/superlifter
 platform:: [[Browser]] , [[JVM]], [[NodeJS]] 
-tags:: [[Data access]], [[GraphQL]] 
+tags:: [[GraphQL]] 
 type:: [[library]]
 
 -

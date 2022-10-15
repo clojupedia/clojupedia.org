@@ -1,7 +1,7 @@
 description:: Simple durable Datalog database
 link:: https://github.com/juji-io/datalevin
 platform:: [[babashka]], [[jvm]], [[native-image]]
-tags:: [[disk]], [[database]], [[datalog]], [[key-value store]]
+tags:: [[Database]], [[Datalog]], [[Key-value store]], [[Persistent]]
 type:: [[CLI]], [[library]]
 
 - Comments
