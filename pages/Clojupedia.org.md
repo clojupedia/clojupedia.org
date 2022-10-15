@@ -4,6 +4,6 @@ title:: Clojupedia.org
 	- [[Previous work]]
 - [[Roadmap]]
 - [[Query]]
-- [[Tags]]
+- [[Tag]]
 - [[Templates]]
 - [[How to contribute]]

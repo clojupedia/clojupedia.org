@@ -1,9 +1,10 @@
 description:: General purpose database with graph-oriented bitemporal indexes
 link:: https://github.com/xtdb/xtdb
 platform:: [[JVM]]
-tags:: [[Bitemporal]], [[Database]], [[Datalog]], [[EQL]], [[Persistent]], [[SQL]]
-type:: [[networked database]], [[library]]
+tag:: [[Bitemporal]], [[Database]]
+tag:: [[Database]], [[Datalog]], [[EQL]], [[Persistent]], [[SQL]]
 title:: xtdb/xtdb
+type:: [[Application]] , [[Library]]
 
 - Comments
 	- Bitemporal indexing of schemas documents

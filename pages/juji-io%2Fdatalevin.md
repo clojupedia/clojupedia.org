@@ -1,9 +1,9 @@
 description:: Simple durable Datalog database
 link:: https://github.com/juji-io/datalevin
-platform:: [[babashka]], [[jvm]], [[Native-image]]
-tags:: [[Database]], [[Datalog]], [[Key-value store]], [[Persistent]]
-type:: [[CLI]], [[library]]
+platform:: [[Babashka]], [[jvm]], [[Native-image]]
+tag:: [[Database]], [[Datalog]], [[Key-value store]], [[Persistent]]
 title:: juji-io/datalevin
+type:: [[CLI]], [[Library]]
 
 - Comments
 	- Started out as a port of [[tonsky/datascript]] to Lightning Memory-Mapped Database (LMDB)

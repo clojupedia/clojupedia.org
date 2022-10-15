@@ -2,8 +2,9 @@ title:: seancorfield/next.jdbc
 description:: New low-level Clojure wrapper for JDBC-based access to databases
 link:: https://github.com/seancorfield/next-jdbc
 platform:: [[JVM]]
-tags:: [[JDBC]], [[SQL]]
-type:: [[library]]
+tag:: [[JDBC]], [[SQL]]
+title:: seancorfield/next.jdbc
+type:: [[Library]]
 
 - Comments
 	- Next generation of [[clojure/clojure.java.jdbc]]

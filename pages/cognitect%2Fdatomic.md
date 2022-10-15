@@ -1,9 +1,9 @@
 description:: Transactional database with a flexible data model ; elastic scaling ; and rich queries
 link:: https://www.datomic.com
 platform:: [[Service]]
-tags:: database, datalog, [[Persistent]]
-type:: [[networked database]], [[library]]
+tag:: [[Database]], [[Datalog]], [[Persistent]]
 title:: cognitect/datomic
+type:: [[Application]], [[Library]]
 
 - Comments
 	- Its Clojuresque [[Datalog]] dialect led to many [[Datalog]] databases

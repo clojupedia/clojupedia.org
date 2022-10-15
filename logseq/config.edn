@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ("About" "Roadmap" "Tags")
+ :favorites ["About" "Roadmap"]
  :publishing/all-pages-public? true
  :feature/enable-timetracking? false
  :feature/enable-journals? false

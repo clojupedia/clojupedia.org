@@ -1,8 +1,9 @@
 description:: Durable Datalog database powered by an efficient Datalog query engine
 link:: https://github.com/replikativ/datahike
 platform:: [[JVM]]
-tags:: [[Database]], [[Datalog]], [[Persistent]], [[Time-travel]]
-type:: [[library]]
+tag:: [[Database]], [[Datalog]], [[Persistent]], [[Time-travel]]
+title:: replikativ/datahike
+type:: [[Library]]
 title:: replikativ/datahike
 
 - Comments

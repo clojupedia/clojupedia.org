@@ -1,9 +1,9 @@
 description:: Graph database for Clojure and Clojurescript
 link:: https://github.com/threatgrid/asami
 platform:: [[browser]], [[JVM]], [[NodeJS]], [[Native-image]]
-tags:: [[Database]], [[Datalog]], [[Persistent]], [[In-memory]]
-type:: [[CLI]], [[library]]
+tag:: [[Database]], [[Datalog]], [[Persistent]], [[In-memory]]
 title:: threatgrid/asami
+type:: [[CLI]], [[Library]]
 
 - Comments
 	- API is similar to a simplified [[cognitect/datomic]]
