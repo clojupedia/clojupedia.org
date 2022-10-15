@@ -1,7 +1,8 @@
+title:: clojure.jdbc
 description:: JDBC library for Clojure
 link:: https://github.com/funcool/clojure.jdbc
 platform:: JVM,
-status:: unknown, 
+status:: unknown,
 tags:: JDBC, SQL
 type:: library,
 
