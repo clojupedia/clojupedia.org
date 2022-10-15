@@ -1,16 +1,16 @@
 # Clojupedia
 
-Prototype of a community-driven effort to centralize knowledge about Clojure libraries and resources.
+Community-driven effort for maintaining a clear, searchable view on the Clojure
+ecosystem.
 
-Powerful query capabilities organized around a knowledge graph for discovering the libraries you need (and deserve).
+See the [clojupedia.org](https://clojupedia.org) for more information.
 
-See current version, a basic example exploring core features and capabilities, at [this link](https://clojupedia.github.io/#/page/contents).
 
-Powered by [Logseq](https://logseq.com). Open this graph in the application to enjoy its full potential.
+---
 
 
 # License
 
 Licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-Copyright © 2021 Adam Helinski and contributors
+Copyright © 2021 Protosens SRL and contributors
