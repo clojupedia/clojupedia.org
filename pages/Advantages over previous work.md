@@ -12,14 +12,14 @@ title:: Advantages over previous work
 		- `Find an HTTP client, both JVM and Node friendly`
 		- `Find a Datalog database compatible with Babashka`
 		- ...
-	- See [[Queries]]
+	- See [[Query]]
 - Annotated
 	- Offer more than mere links
 	- Brief annotations
-		- Spot strengths and weaknesses of a library
-		- Comparisons with similar work, help choosing
+		- Spot strengths and weaknesses of a library / tool
+		- Comparisons with similar work, helps choosing
 	- Rich media
-		- Allow embedding videos
+		- Allow embedding images and videos
 - Bidirectional linking
 	- Easy to spot how different resources are linked
 		- Page for library A has a link to library B

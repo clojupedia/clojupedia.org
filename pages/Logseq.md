@@ -11,7 +11,7 @@
 - Why
 	- Under the hood, it is simply markdown
 	- Well-suited for collaboration through Git
-	- Query system powered by Datalog
+	- [[Query]] system powered by Datalog
 	- Whole knowledge graph can be exported to EDN
 		- Future-proof
 	- Easy to hack
