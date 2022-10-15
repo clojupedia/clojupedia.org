@@ -1,4 +1,4 @@
-- List of all existing tags associated with projects
+- List of all existing tags associated with pages
 - ---
 - {{query (all-page-tags)}}
   query-sort-by:: page

@@ -15,7 +15,6 @@ title:: Learn/Query
 			- E.g. `(page-property "platform" "Browser")`
 		- `and`
 			- For combining and repeating any of the above
-			- E.g. `(and (page-tags  "Datalog") (page-property "platform" "browser"))`
 			- {{query (and (page-tags  "Datalog") (page-property "platform" "browser"))}}
 			  query-sort-by:: page
 			  query-sort-desc:: false

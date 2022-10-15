@@ -13,7 +13,7 @@
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
- :hidden []
+ :hidden ["README.md" "private"]
 
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
@@ -165,11 +165,11 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["About" "Roadmap"]
+ :favorites ("About" "Roadmap" "Tags")
  :publishing/all-pages-public? true
  :feature/enable-timetracking? false
  :feature/enable-journals? false
- :default-home {:page "Contents"}
+ :default-home {:page "Clojupedia.org"}
  :feature/enable-flashcards? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)

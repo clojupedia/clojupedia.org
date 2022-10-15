@@ -7,7 +7,7 @@ title:: Learn/Query/Simple
 - See [this tutorial](https://docs.logseq.com/#/page/queries) about queries for more details
 - ---
 -
-- Powered by [[Datascript]] and [SCI](https://github.com/babashka/sci)
+- Powered by [[tonsky/datascript]] and [SCI](https://github.com/babashka/sci)
 - Results can even be formatted in Hiccup for customized UIs
 - See [this tutorial](https://docs.logseq.com/#/page/advanced%20queries)
 -
