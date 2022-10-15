@@ -12,4 +12,4 @@ title:: Clojupedia.org
 - Get inspired by exploring [[Tag]]
 - ---
 - [Repository](https://github.com/clojupedia/clojupedia.org)
-- [Website](https://clojupedia.org/#/page/Contents)
+- [Website](https://clojupedia.org)
