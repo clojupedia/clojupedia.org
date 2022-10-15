@@ -1,5 +1,6 @@
-filters:: {}
 description:: All existing tags
+title:: tag
+type:: [[Property]]
 ---
 
 - {{query (page-property type Tag)}}

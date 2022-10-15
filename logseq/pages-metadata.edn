@@ -1,9 +1,9 @@
 [{:block/name "",
-  :block/created-at 1665855986467,
-  :block/updated-at 1665855986467}
+  :block/created-at 1665859381539,
+  :block/updated-at 1665859381539}
  {:block/name "[[database]]",
-  :block/created-at 1665857313578,
-  :block/updated-at 1665857313578}
+  :block/created-at 1665858985709,
+  :block/updated-at 1665858985709}
  {:block/name "a",
   :block/created-at 1647643395292,
   :block/updated-at 1647643395292}
@@ -27,10 +27,10 @@
   :block/updated-at 1665822068803}
  {:block/name "bitemporal",
   :block/created-at 1647643395294,
-  :block/updated-at 1665846340407}
+  :block/updated-at 1665858368376}
  {:block/name "browser",
   :block/created-at 1647643395292,
-  :block/updated-at 1647643395292}
+  :block/updated-at 1665859155999}
  {:block/name "c",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -48,7 +48,7 @@
   :block/updated-at 1665821695961}
  {:block/name "clojupedia.org",
   :block/created-at 1641749419649,
-  :block/updated-at 1665846740875}
+  :block/updated-at 1665857721304}
  {:block/name "clojure",
   :block/created-at 1665846362245,
   :block/updated-at 1665846362245}
@@ -65,11 +65,11 @@
   :block/created-at 1665845568626,
   :block/updated-at 1665845568626}
  {:block/name "database",
-  :block/created-at 1647643395294,
-  :block/updated-at 1665857217125}
+  :block/created-at 1665859215530,
+  :block/updated-at 1665859234981}
  {:block/name "datalog",
   :block/created-at 1647643395294,
-  :block/updated-at 1665846651134}
+  :block/updated-at 1665857974085}
  {:block/name "description",
   :block/created-at 1665521961708,
   :block/updated-at 1665521961708}
@@ -84,7 +84,7 @@
   :block/updated-at 1665844922298}
  {:block/name "eql",
   :block/created-at 1647643395289,
-  :block/updated-at 1665846662239}
+  :block/updated-at 1665858082765}
  {:block/name "favorites",
   :block/created-at 1647643395292,
   :block/updated-at 1647643395292}
@@ -96,7 +96,7 @@
   :block/updated-at 1665857391060}
  {:block/name "graphql",
   :block/created-at 1644659475684,
-  :block/updated-at 1665846578215}
+  :block/updated-at 1665858133571}
  {:block/name "hiccup",
   :block/created-at 1665831931208,
   :block/updated-at 1665831931208}
@@ -105,13 +105,13 @@
   :block/updated-at 1641750502512}
  {:block/name "in-memory",
   :block/created-at 1647643395292,
-  :block/updated-at 1665846673325}
+  :block/updated-at 1665858176077}
  {:block/name "in-progress",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
  {:block/name "jdbc",
   :block/created-at 1665782579224,
-  :block/updated-at 1665846694442}
+  :block/updated-at 1665858227407}
  {:block/name "juji-io",
   :block/created-at 1665846362209,
   :block/updated-at 1665846362209}
@@ -123,7 +123,7 @@
   :block/updated-at 1647643395294}
  {:block/name "key-value store",
   :block/created-at 1665822025276,
-  :block/updated-at 1665846703702}
+  :block/updated-at 1665858599159}
  {:block/name "later",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -149,8 +149,8 @@
   :block/created-at 1665821695963,
   :block/updated-at 1665856186238}
  {:block/name "library page",
-  :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
+  :block/created-at 1665858990495,
+  :block/updated-at 1665858990495}
  {:block/name "link",
   :block/created-at 1665521961709,
   :block/updated-at 1665521961709}
@@ -183,7 +183,7 @@
   :block/updated-at 1647643395292}
  {:block/name "persistent",
   :block/created-at 1647643395292,
-  :block/updated-at 1665846624563}
+  :block/updated-at 1665858640751}
  {:block/name "platform",
   :block/created-at 1665521961710,
   :block/updated-at 1665521961710}
@@ -193,6 +193,9 @@
  {:block/name "previous work",
   :block/created-at 1641748195921,
   :block/updated-at 1641806933648}
+ {:block/name "property",
+  :block/created-at 1665858302959,
+  :block/updated-at 1665858336725}
  {:block/name "queries",
   :block/created-at 1665834249669,
   :block/updated-at 1665834249669}
@@ -225,25 +228,19 @@
   :block/updated-at 1665845372298}
  {:block/name "sql",
   :block/created-at 1647643395294,
-  :block/updated-at 1665846721114}
- {:block/name "status",
-  :block/created-at 1665521961710,
-  :block/updated-at 1665521961710}
+  :block/updated-at 1665858689367}
  {:block/name "tag",
   :block/created-at 1665846094408,
-  :block/updated-at 1665846483268}
- {:block/name "tags",
-  :block/created-at 1665832842980,
-  :block/updated-at 1665840794122}
+  :block/updated-at 1665858302960}
  {:block/name "template",
   :block/created-at 1647643395294,
-  :block/updated-at 1647643395294}
- {:block/name "template - library page",
+  :block/updated-at 1665858827900}
+ {:block/name "template/library",
   :block/created-at 1641760292807,
-  :block/updated-at 1641764819725}
- {:block/name "templates",
-  :block/created-at 1641761493353,
-  :block/updated-at 1641764799517}
+  :block/updated-at 1665858974396}
+ {:block/name "template/tag",
+  :block/created-at 1665859074938,
+  :block/updated-at 1665859131589}
  {:block/name "threatgrid",
   :block/created-at 1665834493971,
   :block/updated-at 1665834493971}
@@ -252,7 +249,7 @@
   :block/updated-at 1665857507673}
  {:block/name "time-travel",
   :block/created-at 1647643395294,
-  :block/updated-at 1665846733170}
+  :block/updated-at 1665858753159}
  {:block/name "todo",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -282,4 +279,4 @@
   :block/updated-at 1665844468242}
  {:block/name "xtdb/xtdb",
   :block/created-at 1641760566940, 
-  :block/updated-at 1665857579588}]
+  :block/updated-at 1665857882570}]

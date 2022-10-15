@@ -1,8 +1,11 @@
+filters:: {"type" false}
 description:: Java DataBase Connectivity
 link:: https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
 title:: JDBC
 type:: [[Tag]]
 
--
-- {{query (and (page-tags "JDBC"))}}
+- ---
+- {{query (and (page-property tag "JDBC"))}}
   query-properties:: [:page :description :platform]
+  query-sort-by:: page
+  query-sort-desc:: false

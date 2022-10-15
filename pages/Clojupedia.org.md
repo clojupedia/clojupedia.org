@@ -5,5 +5,5 @@ title:: Clojupedia.org
 - [[Roadmap]]
 - [[Query]]
 - [[Tag]]
-- [[Templates]]
+- [[Template]]
 - [[How to contribute]]
