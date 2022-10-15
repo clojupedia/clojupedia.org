@@ -51,7 +51,7 @@
   :block/updated-at 1665821834012}
  {:block/name "contents",
   :block/created-at 1641749419649,
-  :block/updated-at 1665821562942}
+  :block/updated-at 1665830929970}
  {:block/name "data access",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -63,7 +63,7 @@
   :block/updated-at 1665821882592}
  {:block/name "datalevin",
   :block/created-at 1641751872835,
-  :block/updated-at 1665822068817}
+  :block/updated-at 1665822816238}
  {:block/name "datalog",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -97,6 +97,9 @@
  {:block/name "graphql",
   :block/created-at 1644659475684,
   :block/updated-at 1644659479244}
+ {:block/name "hiccup",
+  :block/created-at 1665831931208,
+  :block/updated-at 1665831931208}
  {:block/name "how to contribute",
   :block/created-at 1641748329161,
   :block/updated-at 1641750502512}
@@ -121,9 +124,24 @@
  {:block/name "later",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
- {:block/name "libraries",
-  :block/created-at 1641752617134,
-  :block/updated-at 1641767631258}
+ {:block/name "learn",
+  :block/created-at 1665831236410,
+  :block/updated-at 1665831275817}
+ {:block/name "learn/properties",
+  :block/created-at 1665832357320,
+  :block/updated-at 1665832357320}
+ {:block/name "learn/query",
+  :block/created-at 1665831236420,
+  :block/updated-at 1665832357327}
+ {:block/name "learn/query/simple",
+  :block/created-at 1665831236423,
+  :block/updated-at 1665831838787}
+ {:block/name "learn/tags",
+  :block/created-at 1665832348276,
+  :block/updated-at 1665832348276}
+ {:block/name "learn/write mode",
+  :block/created-at 1665831995487,
+  :block/updated-at 1665831995487}
  {:block/name "library",
   :block/created-at 1665821695963,
   :block/updated-at 1665821695963}
@@ -139,9 +157,12 @@
  {:block/name "native-image",
   :block/created-at 1665821669315,
   :block/updated-at 1665821669315}
+ {:block/name "networked database",
+  :block/created-at 1665822283853,
+  :block/updated-at 1665822283853}
  {:block/name "next.jdbc",
   :block/created-at 1665821151422,
-  :block/updated-at 1665821190001}
+  :block/updated-at 1665822227540}
  {:block/name "nodejs",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -160,18 +181,18 @@
  {:block/name "previous work",
   :block/created-at 1641748195921,
   :block/updated-at 1641806933648}
- {:block/name "queries",
-  :block/created-at 1641765110142,
-  :block/updated-at 1641767355118}
+ {:block/name "query",
+  :block/created-at 1641765314827,
+  :block/updated-at 1665831005399}
+ {:block/name "query/libraries",
+  :block/created-at 1665830227739,
+  :block/updated-at 1665830257498}
  {:block/name "readme",
   :block/created-at 1647643395293,
   :block/updated-at 1647643395293}
  {:block/name "roadmap",
   :block/created-at 1641749387984,
   :block/updated-at 1644692294574}
- {:block/name "simple queries",
-  :block/created-at 1641765314827,
-  :block/updated-at 1641765373705}
  {:block/name "sql",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -180,7 +201,7 @@
   :block/updated-at 1665521961710}
  {:block/name "superlifter",
   :block/created-at 1645432547392,
-  :block/updated-at 1645433669735}
+  :block/updated-at 1665822250347}
  {:block/name "template",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -207,4 +228,4 @@
   :block/updated-at 1647643395289}
  {:block/name "xtdb",
   :block/created-at 1641760566940, 
-  :block/updated-at 1641765025763}]
+  :block/updated-at 1665822283860}]

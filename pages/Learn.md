@@ -1,0 +1,1 @@
+- Learning materials for using Clojupedia in write mode and/or contributing

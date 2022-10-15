@@ -1,0 +1,2 @@
+- See [[Learn/Query]] for understanding queries
+- The hierarchy below lists prepared ones
