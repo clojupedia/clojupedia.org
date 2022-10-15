@@ -1,4 +1,4 @@
-description:: Standard template for library pages
+description:: Template for library pages
 title:: Template/Library
 
 - ---

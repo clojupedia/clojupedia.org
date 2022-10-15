@@ -117,7 +117,7 @@
   :block/updated-at 1665863983442}
  {:block/name "jvm",
   :block/created-at 1647643395294,
-  :block/updated-at 1665865213252}
+  :block/updated-at 1665865382520}
  {:block/name "key-value store",
   :block/created-at 1665822025276,
   :block/updated-at 1665858599159}
@@ -159,10 +159,10 @@
   :block/updated-at 1641761449857}
  {:block/name "native-image",
   :block/created-at 1665821669315,
-  :block/updated-at 1665865208514}
+  :block/updated-at 1665865420250}
  {:block/name "nodejs",
   :block/created-at 1647643395294,
-  :block/updated-at 1665865199212}
+  :block/updated-at 1665865451711}
  {:block/name "now",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -216,7 +216,7 @@
   :block/updated-at 1665864040435}
  {:block/name "service",
   :block/created-at 1665845357145,
-  :block/updated-at 1665864465773}
+  :block/updated-at 1665865741289}
  {:block/name "sql",
   :block/created-at 1647643395294,
   :block/updated-at 1665858689367}
@@ -225,13 +225,16 @@
   :block/updated-at 1665858302960}
  {:block/name "template",
   :block/created-at 1647643395294,
-  :block/updated-at 1665858827900}
+  :block/updated-at 1665865826652}
  {:block/name "template/library",
   :block/created-at 1641760292807,
-  :block/updated-at 1665865137263}
+  :block/updated-at 1665865840570}
+ {:block/name "template/platform",
+  :block/created-at 1665865878631,
+  :block/updated-at 1665865957690}
  {:block/name "template/tag",
   :block/created-at 1665859074938,
-  :block/updated-at 1665865127998}
+  :block/updated-at 1665865853954}
  {:block/name "threatgrid",
   :block/created-at 1665834493971,
   :block/updated-at 1665834493971}

@@ -1,3 +1,4 @@
+description:: Template for tag pages
 title:: Template/Tag
 
 - ---
