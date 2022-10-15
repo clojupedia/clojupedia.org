@@ -1,6 +1,7 @@
+description:: Type for libraries
 filters:: {"type" false}
-Description:: Type for libraries
-Type:: [[Type]]
+title:: Library
+type:: [[Type]]
 
 - ---
 - {{query (page-property type Library)}}

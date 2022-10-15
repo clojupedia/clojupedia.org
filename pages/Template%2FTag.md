@@ -3,7 +3,8 @@ title:: Template/Tag
 - ---
 - template:: Tag
   template-including-parent:: false
-	- description::
+	- filters:: {"type" false}
+	  description::
 	  link::
 	  title:: (copy page title) 
 	  type:: [[Tag]]

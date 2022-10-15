@@ -1,10 +1,10 @@
 filters:: {"type" false}
-description:: Clojurescript in the browser
-title:: Browser
+description:: Clojurescript on NodeJS
+title:: NodeJS
 type:: [[Platform]]
 
 - ---
-- {{query (page-property platform "Browser")}}
+- {{query (page-property platform "NodeJS")}}
   query-sort-by:: page
   query-sort-desc:: false
   query-properties:: [:page :description :platform]

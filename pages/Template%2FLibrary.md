@@ -4,7 +4,8 @@ title:: Template/Library
 - ---
 - template:: Library
   template-including-parent:: false
-	- description:: 
+	- filters:: {"type" false}
+	  description:: 
 	  link::
 	  platform::  
 	  tag::
