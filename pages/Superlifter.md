@@ -1,9 +1,8 @@
 description:: A `DataLoader` for Clojure/script
 link:: https://github.com/oliyh/superlifter
-platform:: [[Browser]] , [[JVM]], [[NodeJS]]
-status:: active, 
+platform:: [[Browser]] , [[JVM]], [[NodeJS]] 
 tags:: [[Data access]], [[GraphQL]] 
-type:: library,
+type:: [[library]]
 
 -
 - **DataLoader** pattern is a way for batching data access

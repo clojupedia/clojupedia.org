@@ -4,6 +4,8 @@
 -
 - query-table:: true
   query-properties:: [:page :description]
+  query-sort-by:: page
+  query-sort-desc:: true
   #+BEGIN_QUERY
   {:title [:h2 "All currently listed libraries"]
    :query [:find (pull ?b [:block/name :block/properties])
