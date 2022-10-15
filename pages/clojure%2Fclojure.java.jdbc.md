@@ -5,5 +5,5 @@ tag:: [[JDBC]], [[SQL]]
 title:: clojure/clojure.java.jdbc
 type:: [[Library]]
 
-- Comments
-	- Superseded by [[seancorfield/next.jdbc]]
+- ---
+- Superseded by [[seancorfield/next.jdbc]]

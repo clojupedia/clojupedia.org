@@ -5,7 +5,7 @@ tag:: [[GraphQL]]
 title:: oliyh/superlifter
 type:: [[Library]]
 
--
+- ---
 - **DataLoader** pattern is a way for batching data access
 - Often associated with [[GraphQL]]
 	- Instead of retrieving data separately in each resolver, operations can be batched together

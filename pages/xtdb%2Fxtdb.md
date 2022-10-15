@@ -5,13 +5,13 @@ tag:: [[Bitemporal]], [[Database]], [[Datalog]], [[EQL]], [[Persistent]], [[SQL]
 title:: xtdb/xtdb
 type:: [[Application]] , [[Library]]
 
-- Comments
-	- Bitemporal indexing of schemas documents
-	- Great for extensibility
-	- Different query languages
-		- [[Datalog]]
-		- [[EQL]]
-		- [[SQL]]
-	- Besides the Clojure API
-		- HTTP
-		- Vanilla Java
+- ---
+- Bitemporal indexing of schemas documents
+- Great for extensibility
+- Different query languages
+	- [[Datalog]]
+	- [[EQL]]
+	- [[SQL]]
+- Besides the Clojure API
+	- HTTP
+	- Vanilla Java

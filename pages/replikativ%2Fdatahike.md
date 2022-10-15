@@ -6,6 +6,6 @@ title:: replikativ/datahike
 type:: [[Library]]
 title:: replikativ/datahike
 
-- Comments
-	- Akin to [[juji-io/datalevin]], started as a port of [[tonsky/datascript]]
-	- Time-travel like [[cognitect/datomic]]
+- ---
+- Akin to [[juji-io/datalevin]], started as a port of [[tonsky/datascript]]
+- Time-travel like [[cognitect/datomic]]

@@ -5,8 +5,8 @@ tag:: [[JDBC]], [[SQL]]
 title:: funcool/clojure.jdbc
 type:: [[Library]]
 
-- Comments
-	- Became an alternative to [[clojure/clojure.java.jdbc]]
-	- However
-		- Does not look actively maintained
-		- [[seancorfield/next.jdbc]] is a safer choice
+- ---
+- Became an alternative to [[clojure/clojure.java.jdbc]]
+- However
+	- Does not look actively maintained
+	- [[seancorfield/next.jdbc]] is a safer choice
