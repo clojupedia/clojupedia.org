@@ -1,19 +1,19 @@
-description:: Template for tag pages
-see:: [[Tag]]
-title:: Template/Tag
+description:: Template for page types
+see:: [[Type]]
+title:: Template/Type
 
 - ---
-- template:: Tag
+- template:: Type
   template-including-parent:: false
 	- filters:: {"type" false}
 	  description::
 	  link::
 	  title:: (copy page title) 
-	  type:: [[Tag]]
+	  type:: [[Type]]
 	- ---
-	- {{query (page-property tag "COPY PAGE TITLE")}}
+	- {{query (page-property type "COPY PAGE TITLE")}}
 	- #+BEGIN_COMMENT
 	  Ensure:
 	  - All properties are completed
-	  - Query points to this tag
+	  - Query points to this page type
 	  #+END_COMMENT

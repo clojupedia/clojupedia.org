@@ -1,8 +1,7 @@
 description:: Template for platforms
+see:: [[Platform]]
 title:: Template/Platform
 
-- description:: Template for tag pages
-  title:: Template/Tag
 - ---
 - template:: Platform
   template-including-parent:: false

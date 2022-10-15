@@ -1,4 +1,5 @@
 description:: Template for library pages
+see:: [[Library]]
 title:: Template/Library
 
 - ---
