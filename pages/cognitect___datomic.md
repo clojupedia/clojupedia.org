@@ -2,7 +2,6 @@ description:: Transactional database with a flexible data model ; elastic scalin
 link:: https://www.datomic.com
 platform:: [[Service]]
 tag:: [[Database]], [[Datalog]], [[Persistent]]
-title:: cognitect/datomic
 type:: [[Application]], [[Library]]
 
 - ---

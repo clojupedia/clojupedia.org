@@ -1,5 +1,4 @@
 description:: Reusable templates for common kinds of pages
-title:: Template
 
 - [[Logseq]] templates offer a standardized way for creating a new page
 	- See [this tutorial](https://docs.logseq.com/#/page/templates)

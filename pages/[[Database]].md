@@ -1,6 +1,5 @@
 filters:: {"type" false}
 description:: Database libraries and various tooling
-title:: [[Database]]
 type:: [[Tag]]
 
 - ---

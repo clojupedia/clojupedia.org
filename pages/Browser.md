@@ -1,6 +1,5 @@
 filters:: {"type" false}
 description:: Clojurescript in the browser
-title:: Browser
 type:: [[Platform]]
 
 - ---

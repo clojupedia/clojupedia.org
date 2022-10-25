@@ -1,7 +1,6 @@
 filters:: {"type" false}
 description:: Standard Query Language
-title:: SQL
-type:: [[Tag]]
+tag:: [[SQL]]
 
 - ---
 - {{query (page-property tag "SQL")}}

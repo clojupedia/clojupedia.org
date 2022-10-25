@@ -2,7 +2,6 @@ description:: Immutable in-memory Datalog database
 link:: https://github.com/tonsky/datascript
 platform:: [[Browser]], [[JVM]], [[NodeJS]]
 tag:: [[Database]], [[Datalog]], [[In-memory]]
-title:: tonsky/datascript
 type:: [[Library]]
 
 - ---

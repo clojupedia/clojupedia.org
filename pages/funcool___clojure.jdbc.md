@@ -2,7 +2,6 @@ description:: JDBC library for Clojure
 link:: https://github.com/funcool/clojure.jdbc
 platform:: [[JVM]]
 tag:: [[JDBC]], [[SQL]]
-title:: funcool/clojure.jdbc
 type:: [[Library]]
 
 - ---

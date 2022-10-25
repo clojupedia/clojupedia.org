@@ -1,6 +1,5 @@
 description:: Type for libraries
 filters:: {"type" false}
-title:: Library
 type:: [[Type]]
 
 - ---

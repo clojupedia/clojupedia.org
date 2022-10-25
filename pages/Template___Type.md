@@ -1,6 +1,5 @@
 description:: Template for page types
 see:: [[Type]]
-title:: Template/Type
 
 - ---
 - template:: Type
@@ -8,7 +7,6 @@ title:: Template/Type
 	- filters:: {"type" false}
 	  description::
 	  link::
-	  title:: (copy page title) 
 	  type:: [[Type]]
 	- ---
 	- {{query (page-property type "COPY PAGE TITLE")}}

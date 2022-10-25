@@ -1,7 +1,6 @@
 filters:: {"type" false}
 description:: Babashka, the native Clojure interpreter
 link:: https://github.com/babashka/babashka
-title:: Babashka
 type:: [[Platform]]
 
 - ---

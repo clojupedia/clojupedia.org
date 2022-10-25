@@ -2,7 +2,6 @@ description:: GraphQL implementation in pure Clojure
 link:: https://github.com/walmartlabs/lacinia
 platform:: [[JVM]]
 tag:: [[GraphQL]]
-title:: walmartlabs/lacinia
 type:: [[Library]]
 
 - ---

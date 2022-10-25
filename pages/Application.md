@@ -1,6 +1,5 @@
 filters:: {"type" false}
 description:: Any software meant to run on its own
-title:: Application
 type:: [[Type]]
 
 - ---

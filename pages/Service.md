@@ -1,6 +1,5 @@
 filters:: {"type" false}
 description:: Offered as a service
-title:: Service
 type:: [[Platform]]
 
 - ---

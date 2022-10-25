@@ -1,7 +1,6 @@
 filters:: {"type" false}
 description:: Clojure on the Common Runtime Language
 link:: https://clojure.org/about/clojureclr
-title:: CLR 
 type:: [[Platform]]
 
 - ---

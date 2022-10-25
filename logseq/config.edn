@@ -171,6 +171,7 @@
  :feature/enable-journals? false
  :default-home {:page "Clojupedia.org"}
  :feature/enable-flashcards? false
+ :file/name-format :triple-lowbar
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

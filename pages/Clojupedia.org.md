@@ -1,5 +1,4 @@
 description:: Knowledge graph of the Clojure ecosystem
-title:: Clojupedia.org
 
 - ---
 - Powered by [[Logseq]]

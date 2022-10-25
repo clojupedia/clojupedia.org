@@ -1,6 +1,5 @@
 description:: Template for library pages
 see:: [[Library]]
-title:: Template/Library
 
 - ---
 - template:: Library
@@ -10,7 +9,6 @@ title:: Template/Library
 	  link::
 	  platform::  
 	  tag::
-	  title:: (insert page title) 
 	  type:: [[Library]]
 	- ---
 	-

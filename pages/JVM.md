@@ -1,7 +1,6 @@
 filters:: {"type" false}
 description:: Clojure JVM
 link:: https://clojure.org
-title:: JVM
 type:: [[Platform]]
 
 - ---

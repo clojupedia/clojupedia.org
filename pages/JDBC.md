@@ -1,7 +1,6 @@
 filters:: {"type" false}
 description:: Java DataBase Connectivity
 link:: https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
-title:: JDBC
 type:: [[Tag]]
 
 - ---

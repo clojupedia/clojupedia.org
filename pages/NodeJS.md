@@ -1,6 +1,5 @@
 filters:: {"type" false}
 description:: Clojurescript on NodeJS
-title:: NodeJS
 type:: [[Platform]]
 
 - ---

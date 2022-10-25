@@ -1,5 +1,3 @@
-title:: Query
-
 - Queries notably allow searching pages based on their tags and various properties
 - Users can write their own queries using the desktop [[Logseq]] application
 - ---

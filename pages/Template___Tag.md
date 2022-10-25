@@ -1,6 +1,5 @@
 description:: Template for tag pages
 see:: [[Tag]]
-title:: Template/Tag
 
 - ---
 - template:: Tag
@@ -8,7 +7,6 @@ title:: Template/Tag
 	- filters:: {"type" false}
 	  description::
 	  link::
-	  title:: (copy page title) 
 	  type:: [[Tag]]
 	- ---
 	- {{query (page-property tag "COPY PAGE TITLE")}}

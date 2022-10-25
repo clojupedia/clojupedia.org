@@ -1,5 +1,3 @@
-title:: Advantages over previous work
-
 - Avoid duplicating efforts
 	- https://www.clojure-toolbox.com
 	- https://github.com/razum2um/awesome-clojure
