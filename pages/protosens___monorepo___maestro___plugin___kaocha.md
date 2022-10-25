@@ -6,5 +6,5 @@ tag:: [[Repository]], [[Test]]
 type:: [[Library]]
 
 - ---
-- Very useful for monorepo based on [[protosens/monorepo/maestro]]
+- Very useful for monorepos based on [[protosens/monorepo/maestro]]
 - A simple way of deducing test paths and sources paths required for testing modules with [[lambdaisland/kaocha]]

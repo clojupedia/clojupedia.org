@@ -1,21 +1,18 @@
-[{:block/name "+begin_c",
-  :block/created-at 1666727188731,
-  :block/updated-at 1666727188731}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1647643395292,
   :block/updated-at 1647643395292}
- {:block/name "about",
-  :block/created-at 1641745866018,
-  :block/updated-at 1665866880868}
  {:block/name "adam helins",
   :block/created-at 1665999309757,
-  :block/updated-at 1665999309757}
+  :block/updated-at 1666729603291}
  {:block/name "advantages over previous work",
   :block/created-at 1641748195921,
   :block/updated-at 1666722184317}
  {:block/name "application",
   :block/created-at 1665857109119,
-  :block/updated-at 1666722191508}
+  :block/updated-at 1666729832832}
+ {:block/name "applications",
+  :block/created-at 1666729831508,
+  :block/updated-at 1666729831508}
  {:block/name "b",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -151,6 +148,9 @@
  {:block/name "in-progress",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
+ {:block/name "individual",
+  :block/created-at 1666729243381,
+  :block/updated-at 1666729510928}
  {:block/name "jdbc",
   :block/created-at 1665782579224,
   :block/updated-at 1666722601193}
@@ -249,7 +249,7 @@
   :block/updated-at 1666727003919}
  {:block/name "protosens/monorepo/maestro/plugin/kaocha",
   :block/created-at 1666727032248,
-  :block/updated-at 1666727176205}
+  :block/updated-at 1666729630188}
  {:block/name "protosens/monorepo/maestro/plugin/quickdoc",
   :block/created-at 1666727381184,
   :block/updated-at 1666727496982}
@@ -271,9 +271,6 @@
  {:block/name "repository",
   :block/created-at 1666726732428,
   :block/updated-at 1666726778733}
- {:block/name "roadmap",
-  :block/created-at 1665999309752,
-  :block/updated-at 1665999309752}
  {:block/name "seancorfield",
   :block/created-at 1665845061782,
   :block/updated-at 1665845061782}
@@ -286,9 +283,9 @@
  {:block/name "service",
   :block/created-at 1665845357145,
   :block/updated-at 1666722519601}
- {:block/name "sponsors",
+ {:block/name "sponsor",
   :block/created-at 1666728076900,
-  :block/updated-at 1666728146107}
+  :block/updated-at 1666729711407}
  {:block/name "sql",
   :block/created-at 1647643395294,
   :block/updated-at 1666722620447}
@@ -298,12 +295,15 @@
  {:block/name "template",
   :block/created-at 1647643395294,
   :block/updated-at 1666722371546}
+ {:block/name "template/individual",
+  :block/created-at 1666729213491,
+  :block/updated-at 1666729257915}
  {:block/name "template/library",
   :block/created-at 1666723070950,
   :block/updated-at 1666723070950}
  {:block/name "template/organization",
   :block/created-at 1666728274316,
-  :block/updated-at 1666728637134}
+  :block/updated-at 1666729269550}
  {:block/name "template/platform",
   :block/created-at 1666723070967,
   :block/updated-at 1666723070967}

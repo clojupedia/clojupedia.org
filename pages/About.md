@@ -1,6 +1,0 @@
-- Clojupedia is a community-driven effort to centralize knowledge about Clojure libraries and resources
-	- Powered by [[Logseq]]
-	- Currently at the stage of a **crude prototype** demonstrating the core ideas
-	- See advantages over [[Advantages over previous work]]
-- [[Roadmap]]
-- Project initiated by [[Adam Helins]]

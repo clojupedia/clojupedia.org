@@ -1,7 +1,6 @@
 description:: Template for organizations
-see:: [[Library]]
+see:: [[Organization]]
 
-- See [[Organization]]
 - ---
 - template:: Organization
   template-including-parent:: false
