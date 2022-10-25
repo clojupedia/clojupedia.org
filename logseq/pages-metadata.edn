@@ -76,6 +76,9 @@
  {:block/name "clojure/clojure.tools.namespace",
   :block/created-at 1666725286634,
   :block/updated-at 1666725356772}
+ {:block/name "clojurists together",
+  :block/created-at 1666728146104,
+  :block/updated-at 1666728729466}
  {:block/name "clr",
   :block/created-at 1665865975473,
   :block/updated-at 1666722218387}
@@ -85,9 +88,15 @@
  {:block/name "cognitect/datomic",
   :block/created-at 1666723063612,
   :block/updated-at 1666723063612}
+ {:block/name "consulting",
+  :block/created-at 1666728401486,
+  :block/updated-at 1666728512107}
  {:block/name "contents",
   :block/created-at 1665845568626,
   :block/updated-at 1665845568626}
+ {:block/name "contracting",
+  :block/created-at 1666728401487,
+  :block/updated-at 1666728479986}
  {:block/name "contribute",
   :block/created-at 1641748329161,
   :block/updated-at 1665866778194}
@@ -187,6 +196,9 @@
  {:block/name "nodejs",
   :block/created-at 1647643395294,
   :block/updated-at 1666722387277}
+ {:block/name "non-profit",
+  :block/created-at 1666728681270,
+  :block/updated-at 1666728806293}
  {:block/name "now",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -196,6 +208,9 @@
  {:block/name "oliyh/superlifter",
   :block/created-at 1666723071219,
   :block/updated-at 1666723071219}
+ {:block/name "organization",
+  :block/created-at 1666728159381,
+  :block/updated-at 1666728199673}
  {:block/name "pedestal",
   :block/created-at 1647643395292,
   :block/updated-at 1647643395292}
@@ -213,7 +228,7 @@
   :block/updated-at 1665864300581}
  {:block/name "protosens",
   :block/created-at 1666724799677,
-  :block/updated-at 1666726506440}
+  :block/updated-at 1666728401491}
  {:block/name "protosens srl",
   :block/created-at 1666725958295,
   :block/updated-at 1666725958295}
@@ -271,6 +286,9 @@
  {:block/name "service",
   :block/created-at 1665845357145,
   :block/updated-at 1666722519601}
+ {:block/name "sponsors",
+  :block/created-at 1666728076900,
+  :block/updated-at 1666728146107}
  {:block/name "sql",
   :block/created-at 1647643395294,
   :block/updated-at 1666722620447}
@@ -283,6 +301,9 @@
  {:block/name "template/library",
   :block/created-at 1666723070950,
   :block/updated-at 1666723070950}
+ {:block/name "template/organization",
+  :block/created-at 1666728274316,
+  :block/updated-at 1666728637134}
  {:block/name "template/platform",
   :block/created-at 1666723070967,
   :block/updated-at 1666723070967}

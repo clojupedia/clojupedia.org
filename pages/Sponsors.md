@@ -1,0 +1,5 @@
+- **All names are sorted in alphabetical order**
+- ---
+- Initial sponsors
+	- [[Clojurists Together]]
+	- [[Protosens SRL]]
