@@ -8,4 +8,3 @@ type:: [[Platform]]
   query-properties:: [:page :description :platform]
   query-sort-by:: page
   query-sort-desc:: false
-- [[(insert page title)]]
