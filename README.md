@@ -1,9 +1,9 @@
 # Clojupedia
 
-Community-driven effort for maintaining a clear, searchable view on the Clojure
+Community-driven effort for maintaining a clear, searchable view of the Clojure
 ecosystem.
 
-See the [clojupedia.org](https://clojupedia.org) for more information.
+See the [clojupedia.org](https://clojupedia.org) website for more information.
 
 
 ---
