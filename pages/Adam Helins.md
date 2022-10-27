@@ -5,4 +5,4 @@ tag::
 type:: [[Individual]]
 
 - ---
--
+- Founder of [[Protosens SRL]]

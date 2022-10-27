@@ -1,3 +1,4 @@
+alias:: Tag
 filters:: {"type" false}
 description:: All existing tags
 type:: [[Property]]

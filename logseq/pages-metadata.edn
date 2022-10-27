@@ -3,16 +3,13 @@
   :block/updated-at 1647643395292}
  {:block/name "adam helins",
   :block/created-at 1665999309757,
-  :block/updated-at 1666729603291}
+  :block/updated-at 1666867590789}
  {:block/name "advantages over previous work",
   :block/created-at 1641748195921,
   :block/updated-at 1666722184317}
  {:block/name "application",
   :block/created-at 1665857109119,
   :block/updated-at 1666729832832}
- {:block/name "applications",
-  :block/created-at 1666729831508,
-  :block/updated-at 1666729831508}
  {:block/name "b",
   :block/created-at 1647643395294,
   :block/updated-at 1647643395294}
@@ -234,7 +231,7 @@
   :block/updated-at 1666725958295}
  {:block/name "protosens/monorepo",
   :block/created-at 1666726056898,
-  :block/updated-at 1666726515309}
+  :block/updated-at 1666867629507}
  {:block/name "protosens/monorepo/git",
   :block/created-at 1666724799681,
   :block/updated-at 1666725016379}
@@ -288,7 +285,7 @@
   :block/updated-at 1666729711407}
  {:block/name "sql",
   :block/created-at 1647643395294,
-  :block/updated-at 1666722620447}
+  :block/updated-at 1666865261508}
  {:block/name "tag",
   :block/created-at 1665846094408,
   :block/updated-at 1666722630930}
