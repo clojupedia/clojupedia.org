@@ -10,5 +10,6 @@ description:: Knowledge graph of the Clojure ecosystem
 - Start by browsing [[Library]]
 - Get inspired by exploring [[Tag]]
 - ---
+- [#clojupedia on Clojurians Slack](https://app.slack.com/client/T03RZGPFR/C0497BV1M88)
 - [Repository](https://github.com/clojupedia/clojupedia.org)
 - [Website](https://clojupedia.org)
