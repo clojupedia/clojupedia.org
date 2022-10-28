@@ -24,7 +24,7 @@ jobs:
       - name: Logseq Publish, prepare website
         uses: pengx17/logseq-publish@main
         with:
-          version: "master"
+          version: "0.8.9"
 
       - name: Add a nojekyll file
         run:  touch $GITHUB_WORKSPACE/www/.nojekyll
