@@ -57,7 +57,7 @@
   :block/updated-at 1666726957278}
  {:block/name "clojupedia.org",
   :block/created-at 1641749419649,
-  :block/updated-at 1666945452857}
+  :block/updated-at 1666951236845}
  {:block/name "clojure",
   :block/created-at 1665846362245,
   :block/updated-at 1665846362245}
@@ -93,7 +93,7 @@
   :block/updated-at 1666728479986}
  {:block/name "contribute",
   :block/created-at 1641748329161,
-  :block/updated-at 1665866778194}
+  :block/updated-at 1666952012072}
  {:block/name "database",
   :block/created-at 1665859511485,
   :block/updated-at 1665859556785}
@@ -183,7 +183,7 @@
   :block/updated-at 1665864369691}
  {:block/name "logseq",
   :block/created-at 1641749783617,
-  :block/updated-at 1665867998135}
+  :block/updated-at 1666948828645}
  {:block/name "markdown",
   :block/created-at 1666727576414,
   :block/updated-at 1666727576414}
@@ -274,6 +274,9 @@
  {:block/name "seancorfield/next.jdbc",
   :block/created-at 1666723063573,
   :block/updated-at 1666723063573}
+ {:block/name "search area",
+  :block/created-at 1666949302790,
+  :block/updated-at 1666950173404}
  {:block/name "see",
   :block/created-at 1665866315203,
   :block/updated-at 1665866315203}
@@ -291,7 +294,7 @@
   :block/updated-at 1666722630930}
  {:block/name "template",
   :block/created-at 1647643395294,
-  :block/updated-at 1666722371546}
+  :block/updated-at 1666952030175}
  {:block/name "template/individual",
   :block/created-at 1666729213491,
   :block/updated-at 1666729257915}

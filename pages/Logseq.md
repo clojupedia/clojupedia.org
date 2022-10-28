@@ -8,13 +8,14 @@
 	- [Documentation](https://docs.logseq.com/#/page/Contents)
 	- [Github](https://github.com/logseq/logseq)
 	- [Main website](https://logseq.com)
+- ---
 - Why
 	- Under the hood, it is simply markdown
 	- Well-suited for collaboration through Git
 	- [[Query]] system powered by Datalog
-	- Whole knowledge graph can be exported to EDN
-		- Future-proof
-	- Easy to hack
+	- Future-proof
+		- Knowledge graph can be exported to EDN
+	- Straightforward to hack
 		- See [[Contribute]]
 	- Allow publishing a read-only version for the web
 		- [Clojupedia website](https://clojupedia.org)

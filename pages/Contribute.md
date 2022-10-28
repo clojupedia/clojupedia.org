@@ -1,6 +1,26 @@
-- Fork the [repository](https://github.com/clojupedia/clojupedia.org)
-- Edit directly using [[Logseq]]
-	- Using a  [[Template]] when creating a new page
-	- Ensure any information you provide is concise
-	- Always strive to avoid duplication in any form
-- Create a pull request
+- **Setup**
+	- Install the [[Logseq]] desktop application
+	- Fork the [repository](https://github.com/clojupedia/clojupedia.org)
+	- Follow instructions to load the Clojupedia graph
+		- By pointing to the forked repository
+- ---
+- **Edit**
+	- Open the desktop application with the Clojupedia graph
+	- Create a new page in the [[Search area]]
+	- Probably use one of the available  [[Template]]
+	- Fill in any relevant metadata
+	- Add additional comments as necessary
+		- E.g. Links to other pages
+			- Start typing the name of a page in double brackets
+			- Use completion or create a new page
+			- `[[clojure/clojure.java.jdbc]]`
+	- Create a pull request
+- ---
+- **Tips**
+	- Consult [Logseq documentation](https://docs.logseq.com)
+	- Sort any listed items in alphabetical order
+		- Unless there is an obvious logical order
+	- Always strive to avoid duplication
+		- Consider adding more pages if necessary
+	- Ensure the provided information is concise
+		- E.g. This is not the right place for library tutorials
