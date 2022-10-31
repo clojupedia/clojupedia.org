@@ -259,6 +259,9 @@
  {:block/name "query",
   :block/created-at 1641765314827,
   :block/updated-at 1666722158325}
+ {:block/name "quoll/asami",
+  :block/created-at 1667498696659,
+  :block/updated-at 1667498851687}
  {:block/name "replikativ",
   :block/created-at 1665846362218,
   :block/updated-at 1665846362218}
@@ -319,12 +322,6 @@
  {:block/name "text",
   :block/created-at 1666725574663,
   :block/updated-at 1666725638620}
- {:block/name "threatgrid",
-  :block/created-at 1665834493971,
-  :block/updated-at 1665834493971}
- {:block/name "threatgrid/asami",
-  :block/created-at 1666723071320,
-  :block/updated-at 1666723071320}
  {:block/name "time-travel",
   :block/created-at 1647643395294,
   :block/updated-at 1666722322053}
